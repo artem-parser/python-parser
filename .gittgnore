@@ -1,0 +1,16 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Python кэш
+__pycache__/
+*.pyc
+
+# Результаты парсинга (не нужны на GitHub)
+*.csv
+*.xlsx
+*.txt
+!requirements.txt
