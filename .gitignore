@@ -9,8 +9,11 @@ venv/
 __pycache__/
 *.pyc
 
-# Результаты парсинга (не нужны на GitHub)
+# Результаты парсинга
 *.csv
 *.xlsx
 *.txt
 !requirements.txt
+
+# Временные файлы
+~lock.*
